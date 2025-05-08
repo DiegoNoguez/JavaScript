@@ -14,3 +14,11 @@ var nombre="String";
 /*Es importante mencinar que JS distingue las mayuscualas y minusculas por ende
 es mejor usar la nomenclatura de camelCase 
 */
+
+/* Otra forma de decalrar una variables es usando lo siguiente let como palabra clave
+y a diferencia de otra con esta palabra clave la varible solo se puede declarar una vez
+*/
+let nombreGato;
+
+//otra palabra clave para declarar una variable es 
+const PI=3.1416; //y esta es de solo lectura durante la ejecucion dele codigo
