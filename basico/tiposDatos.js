@@ -20,3 +20,5 @@ x++;
 x--;
 
 let numeroDecimal=5.7;
+
+//se puede usar los mismos operadores para tratar con los numeros flotantes
