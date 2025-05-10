@@ -20,5 +20,7 @@ x++;
 x--;
 
 let numeroDecimal=5.7;
-
+let sumaDecimal;
+sumaDecimal=numeroDecimal+5;
+console.log(sumaDecimal);
 //se puede usar los mismos operadores para tratar con los numeros flotantes
