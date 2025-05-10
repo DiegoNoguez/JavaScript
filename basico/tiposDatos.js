@@ -21,6 +21,10 @@ x--;
 
 let numeroDecimal=5.7;
 let sumaDecimal;
-sumaDecimal=numeroDecimal+5;
+sumaDecimal=numeroDecimal+5; //se puede hacer de esta forma o de la siguiente
+sumaDecimal+=1;  //asi mismo se puede usar para restar en una variable.
+
 console.log(sumaDecimal);
 //se puede usar los mismos operadores para tratar con los numeros flotantes
+
+//manejo del operador de reto % muestra el resto de una operacion de dos numero.
