@@ -2,3 +2,5 @@
 
 const cadenaDentro= "Arturo, \"Esta aprendidendo JS\".";
 console.log(cadenaDentro); //impresion en terminal de la cadana(string)
+
+//Asi mismo se pueden hacer distintas operaciones con los Strings 
