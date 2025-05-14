@@ -13,3 +13,4 @@ const ejemplo2 = "My name is "+myName+" and I am well!";
 const someAdjective = "Es asombroso ";
 let eje1 = "Learning to code is ";
 myStr+=someAdjective;
+console.log(myStr); 
