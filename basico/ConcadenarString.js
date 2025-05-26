@@ -14,3 +14,12 @@ const someAdjective = "Es asombroso ";
 let eje1 = "Learning to code is ";
 myStr+=someAdjective;
 console.log(myStr); 
+
+//Uso de corchetes para obtencion del ultimo caracter dentro de una linea.
+const ultimaLetra=eje1[eje1.length - 1];
+console.log(ultimaLetra);
+
+//Caracter unesimo en la cadena
+const penultimoCaracter=eje1[eje1.length - 3];
+console.log(penultimoCaracter);
+
