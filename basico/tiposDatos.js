@@ -28,3 +28,9 @@ console.log(sumaDecimal);
 //se puede usar los mismos operadores para tratar con los numeros flotantes
 
 //manejo del operador de reto % muestra el resto de una operacion de dos numero.
+
+
+//operador typeoff
+comsole.log(typeof numeroDecimal);
+
+//type off revisa el tipo de dato que recibe una variable u almacena la misma
