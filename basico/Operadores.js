@@ -36,6 +36,7 @@ console.log(e);
 f = 2 ** 2;
 console.log(f);
 //incremento 
+// pre incremento y para post incrementeo es f ++ y asi para decremento 
 ++f;
 console.log(f);
 //decremento 
