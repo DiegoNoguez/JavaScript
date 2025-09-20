@@ -7,7 +7,16 @@
 5-Relacionales <,>,<= y >=
 6. Igualdad == y !=
 8-logicos && ||
-8 Asignacion =, +=, 
+8 Asignacion =, +=, -= *= 
 */
 
-//Ejemplo 
+//Ejemplo Se revisa de izquierda a derecha.
+
+
+let a = 12 / 3 + 2 * 3 - 1;
+
+console.log(a);
+
+a = (3 * 2) - 5;
+
+console.log(a)
