@@ -23,3 +23,14 @@ if(number >= 7){
 }else{
     console.log("El valor de ",number, " es menor a 7");
 }
+
+
+//Bloque if else a continuacion se agrega un if else anidado 
+
+if(number >= 7){
+    console.log("El valor dado es mayor a 7");
+}else if(number < 5){
+    console.log("El valor de ",number, " es menor a 7");
+}else{
+    console.log( "El numero es menor a 7 y a 5")
+}
