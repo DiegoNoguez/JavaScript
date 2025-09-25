@@ -2,7 +2,7 @@
 //el uso de if
 const EDAD_ADULTO=18;
 
-let edad=20;
+let edad=20; //Variable a cambiar para visulizar que tanto esta cambiando o se comporta.
 
 //Punto de evaluacion de la decision
 
