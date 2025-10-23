@@ -21,3 +21,11 @@ console.log(persona); /// impresion del objeto en JS
 // uso de la propiedad nueva del objeto 
 console.log(persona.nombreCompleto());  // llama a la función 
 
+
+
+// Creación de un objeto pero con palabra reservada
+
+let persona2 = new Object();  // JS crea objeto en memoria
+persona2.nombre = 'Julio';
+persona2.edad = 54;
+persona2.estudio = 'Licenciatura';
