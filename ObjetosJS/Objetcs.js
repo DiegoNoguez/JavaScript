@@ -13,4 +13,4 @@ console.log(persona.apellido);
 console.log(persona.gmail);
 console.log(persona.nombre);
 
-console.log(persona);
+console.log(persona); /// impresion del objeto en JS
