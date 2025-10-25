@@ -29,3 +29,7 @@ let persona2 = new Object();  // JS crea objeto en memoria
 persona2.nombre = 'Julio';
 persona2.edad = 54;
 persona2.estudio = 'Licenciatura';
+persona2.tel = '5534567884';
+
+// IMPRESION DEL OBJETO 
+console.log(persona2.edad);
