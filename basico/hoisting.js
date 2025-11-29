@@ -1,7 +1,7 @@
 //Hoisting   -> siginifica que la declaracion de la variable
 //puede estar en cualquier parte del programa
 
-var x; //declaracion 
+var x; //declaracion de la variable usando var 
 x = 10; //inicializacion de la variable
 
 console.log(x);
