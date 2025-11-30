@@ -1,4 +1,4 @@
-// Ejemplo Arrays
+// Ejemplo Arrays en el lenguaje de programación de Java Script o JS
 let numeroArray= [];
 
 // Modificar valores del array puede ser cualquier tipo de dato.
