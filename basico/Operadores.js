@@ -1,7 +1,7 @@
 // uso de operadores dentro de js
 /*
     operador de suma, resta, multiplicacion, division, modulo (residuo)
-    potencia, incremento , decremento 
+    potencia, incremento , decremento entre otros 
 
     simbolos ordenandos conforme a la lista anterior 
     +
