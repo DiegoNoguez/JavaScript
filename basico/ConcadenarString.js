@@ -1,4 +1,4 @@
-// En este código se muestre como se concadenan los string con el operador de +
+// En este código se muestre como se concadenan los string con el operador de + para juntar cadenas o strings 
 const myStr = "This is the start "+"This is the end"; 
 
 //otra forma de concadenar string en js es con el operador +=
