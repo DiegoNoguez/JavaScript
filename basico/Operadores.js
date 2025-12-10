@@ -3,7 +3,7 @@
     operador de suma, resta, multiplicacion, division, modulo (residuo)
     potencia, incremento , decremento entre otros 
 
-    simbolos ordenandos conforme a la lista anterior 
+    simbolos ordenandos conforme a la lista anterior representando los puntos sencillos 
     +
     -
     *
